@@ -1,0 +1,12 @@
+.pyc
+.idea/
+venv/
+.env
+../venv/
+env.bak/
+venv.bak/
+*.sqlite3
+arquivos_guia/
+__pycache__/
+*.py[cod]
+*$py.class
